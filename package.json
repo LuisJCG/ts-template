@@ -1,0 +1,21 @@
+{
+  "name": "Erinn",
+  "version": "1.0.0",
+  "description": "Cache simulator ",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node ./bin/app/main.js",
+    "test": "gulp clean transpile && mocha ./bin/test/spec.js"
+  },
+  "dependencies": {
+    "typescript": "^3.9.3"
+  },
+  "devDependencies": {
+    "@types/chai": "^4.2.11",
+    "@types/mocha": "^5.2.7",
+    "chai": "^4.2.0",
+    "mocha": "^6.2.3",
+    "tslint": "^5.20.1"
+  }
+}
