@@ -1,5 +1,5 @@
 {
-  "name": "Erinn",
+  "name": "No name",
   "version": "1.0.0",
   "description": "Cache simulator ",
   "main": "index.js",
@@ -9,7 +9,7 @@
     "test": "gulp clean transpile && mocha ./bin/test/spec.js"
   },
   "dependencies": {
-    "typescript": "^3.9.3"
+    "typescript": "^3.9.7"
   },
   "devDependencies": {
     "@types/chai": "^4.2.11",
