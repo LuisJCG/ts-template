@@ -9,13 +9,13 @@
     "test": "mocha ./bin/test/spec.js"
   },
   "dependencies": {
-    "typescript": "^3.9.3"
+    "typescript": "^3.9.7"
   },
   "devDependencies": {
     "@types/chai": "^4.2.11",
-    "@types/mocha": "^5.2.7",
+    "@types/mocha": "^8.0.0",
     "chai": "^4.2.0",
-    "mocha": "^6.2.3",
-    "tslint": "^5.20.1"
+    "mocha": "^8.0.1",
+    "tslint": "^6.1.2"
   }
 }
