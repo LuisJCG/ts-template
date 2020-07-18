@@ -6,7 +6,7 @@
   "scripts": {
     "build": "tsc",
     "start": "node ./bin/app/main.js",
-    "test": "gulp clean transpile && mocha ./bin/test/spec.js"
+    "test": "mocha ./bin/test/spec.js"
   },
   "dependencies": {
     "typescript": "^3.9.3"
