@@ -14,8 +14,10 @@
   "devDependencies": {
     "@types/chai": "^4.2.11",
     "@types/mocha": "^8.0.0",
+    "@types/node": "^14.0.25",
     "chai": "^4.2.0",
     "mocha": "^8.0.1",
-    "tslint": "^6.1.2"
+    "tslint": "^6.1.2",
+    "tslog": "^2.6.3"
   }
 }
