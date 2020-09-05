@@ -9,15 +9,15 @@
     "test": "mocha ./bin/test/spec.js"
   },
   "dependencies": {
-    "typescript": "^3.9.7"
+    "typescript": "^4.0.2"
   },
   "devDependencies": {
     "@types/chai": "^4.2.11",
-    "@types/mocha": "^8.0.0",
-    "@types/node": "^14.0.25",
+    "@types/mocha": "^8.0.3",
+    "@types/node": "^14.6.4",
     "chai": "^4.2.0",
-    "mocha": "^8.0.1",
-    "tslint": "^6.1.2",
-    "tslog": "^2.6.3"
+    "mocha": "^8.1.3",
+    "tslint": "^6.1.3",
+    "tslog": "^2.8.0"
   }
 }
